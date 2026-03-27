@@ -18,8 +18,8 @@ Materials Science · Mathematics · Medicine · Multidisciplinary · Philosophy 
 Physics & Astrophysics · Psychology · Sociology
 
 ## Data Source
-Data compiled by the **Bajwa**.  
+Developed by **Bajwa**.  
 This project presents the data in an accessible English-language interface.
 
 ## Usage
-Visit the live site: 
+Visit the live site: https://chfs2002.github.io/journals-2026/
